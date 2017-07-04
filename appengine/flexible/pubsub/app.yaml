@@ -7,8 +7,8 @@ runtime_config:
 
 #[START env]
 env_variables:
-    PUBSUB_TOPIC: your-topic
+    PUBSUB_TOPIC: HOT_TOPIC
     # This token is used to verify that requests originate from your
     # application. It can be any sufficiently random string.
-    PUBSUB_VERIFICATION_TOKEN: 1234abc
+    PUBSUB_VERIFICATION_TOKEN: abc123
 #[END env]
